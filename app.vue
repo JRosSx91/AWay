@@ -4,10 +4,6 @@
   </NuxtLayout>
 </template>
 <style>
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 ::-webkit-scrollbar {
   width: 3px;
   height: 3px;
