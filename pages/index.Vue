@@ -1,5 +1,6 @@
 <template>
-  <div class="bg-black w-screen h-screen overflow-hidden">
-    <h1>This is index</h1>
+  <div class="bg-blue-500">
+    <h1 class="text-3xl font-bold">Hello World</h1>
+    <p>Hey!</p>
   </div>
 </template>
