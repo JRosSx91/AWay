@@ -1508,7 +1508,7 @@ async@^3.2.4:
   resolved "https://registry.npmjs.org/async/-/async-3.2.5.tgz"
   integrity sha512-baNZyqaaLhyLVKm/DlvdW051MSgO6b8eVfIezl9E5PqWxFgzLm/wQntEW4zOytVburDEr0JlALEpdOFwvErLsg==
 
-autoprefixer@^10.4.17:
+autoprefixer@^10.4.17, autoprefixer@^10.4.18:
   version "10.4.18"
   resolved "https://registry.npmjs.org/autoprefixer/-/autoprefixer-10.4.18.tgz"
   integrity sha512-1DKbDfsr6KUElM6wg+0zRNkB/Q7WcKYAaK+pzXn+Xqmszm/5Xa9coeNdtP88Vi+dPzZnMjhge8GIV49ZQkDa+g==

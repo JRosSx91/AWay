@@ -1,3 +1,6 @@
+<script lang="ts">
+import '@/assets/css/globals.css'
+</script>
 <template>
   <NuxtLayout>
     <NuxtPage />
